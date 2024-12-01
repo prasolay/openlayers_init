@@ -624,7 +624,7 @@ const map = new (0, _mapJsDefault.default)({
 function helloFunction(user) {
     console.log(`Hello ${user}`);
 }
-helloFunction("\u4F7F\u7528\u80051\u865F");
+helloFunction("\u4F7F\u7528\u80052\u865F");
 
 },{"ol/source/OSM.js":"dmxOv","ol/layer/Tile.js":"3ytzs","ol/View.js":"8xbkS","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./style.css":"bhJkM","ol/Map.js":"14YFC"}],"dmxOv":[function(require,module,exports,__globalThis) {
 /**

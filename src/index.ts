@@ -21,4 +21,4 @@ function helloFunction(user: string) {
   console.log(`Hello ${user}`);
 }
 
-helloFunction("使用者1號");
+helloFunction("使用者2號");
