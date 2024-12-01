@@ -14428,7 +14428,7 @@ var baseHues = {
     };
 }
 
-},{"color-name":"dOQo1","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"dOQo1":[function(require,module,exports,__globalThis) {
+},{"color-name":"8NNt4","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"8NNt4":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 exports.default = {
