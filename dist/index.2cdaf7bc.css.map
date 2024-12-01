@@ -1,0 +1,1 @@
+{"mappings":"ACGA;;;;;AAMA","sources":["a3Eogq","src/style.css"],"sourcesContent":[null,"/* @import \"ol.css\"; */\n@import \"../node_modules/ol/ol.css\";\n\nhtml,\nbody {\n  margin: 0;\n  height: 100%;\n}\n\n#map {\n  position: absolute;\n  top: 0;\n  bottom: 0;\n  width: 100%;\n}"],"names":[],"version":3,"file":"index.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
